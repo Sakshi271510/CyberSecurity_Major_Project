@@ -33,56 +33,99 @@ Lab Environment	Kali Linux
 ________________________________________
 🛠️ Tools & Technologies Used
 Operating System
+
 •	Kali Linux 
 Programming & Scripting
+
 •	Python 
+
 •	Bash 
 Security Tools
+
 •	Nmap 
+
 •	WHOIS 
+
 •	nslookup 
-•	theHarvester 
+
+•	theHarvester
+
 •	recon-ng 
+
 •	OpenVAS / Greenbone 
+
 •	Nikto 
+
 •	SQLMap 
+
 •	Hydra 
+
 •	Wireshark 
+
 •	John the Ripper 
+
 •	UFW 
+
 •	Snort 
+
 •	Wazuh 
 Utilities & Libraries
+
 •	hashlib 
+
 •	passlib 
+
 •	crypt 
+
 •	netstat 
+
 •	curl 
-•	sha256sum 
+
+•	sha256sum
+
 •	strings 
+
 ________________________________________
 📁 Project Structure
+
 .
 ├── Task1_Footprinting_Recon/
+
 ├── Task2_Vulnerability_Assessment/
+
 ├── Task3_Password_Sniffing_Session/
+
 ├── Task4_Malware_System_CloudSecurity/
+
 ├── screenshots/
+
 ├── reports/
+
 └── README.md
+
 ________________________________________
 🔍 Task 1 — Footprinting, Reconnaissance & Scanning
 Objectives
+
 •	Perform footprinting 
+
 •	Perform reconnaissance 
+
 •	Scan hosts and ports 
-•	Detect services and operating systems 
+
+•	Detect services and operating systems
+
 •	Identify vulnerabilities 
 Key Tools
+
 •	WHOIS 
+
 •	nslookup 
+
 •	theHarvester 
+
 •	recon-ng 
+
 •	Nmap 
 Sample Commands
 WHOIS Lookup
