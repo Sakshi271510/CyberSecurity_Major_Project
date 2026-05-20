@@ -80,7 +80,7 @@ Utilities & Libraries
 •	strings 
 
 ________________________________________
-📁 Project Structure
+####📁 Project Structure
 
 .
 ├── Task1_Footprinting_Recon/
@@ -98,7 +98,7 @@ ________________________________________
 └── README.md
 
 ________________________________________
-🔍 Task 1 — Footprinting, Reconnaissance & Scanning
+#####🔍 Task 1 — Footprinting, Reconnaissance & Scanning
 Objectives
 
 •	Perform footprinting 
