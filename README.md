@@ -60,17 +60,6 @@ Security Tools
 
 •	UFW 
 
-•	Snort 
-
-•	Wazuh 
-Utilities & Libraries
-
-•	hashlib 
-
-•	passlib 
-
-•	crypt 
-
 •	netstat 
 
 •	curl 
@@ -124,9 +113,13 @@ This cybersecurity practical project successfully demonstrated multiple offensiv
 ________________________________________
 ## ⚠️ Disclaimer
 This project is intended strictly for:
-•	Educational purposes 
+
+•	Educational purposes
+
 •	Authorized lab environments 
+
 •	Ethical cybersecurity learning 
+
 Do not perform scanning, exploitation, or password attacks on systems without proper authorization.
 ________________________________________
 ## 📌 Author
