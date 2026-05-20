@@ -127,22 +127,44 @@ Key Tools
 •	recon-ng 
 
 •	Nmap 
+
 Sample Commands
+
 WHOIS Lookup
+
 whois openai.com
+
+
 DNS Lookup
+
 nslookup microsoft.com
+
+
 Host Discovery
+
 nmap -sn 192.168.137.129/24
+
+
 Service Detection
+
 nmap -sV 192.168.1.10
+
+
 Vulnerability Scan
+
 nmap --script vuln 192.168.1.10
+
+
 Findings
+
 •	Open and closed ports identified 
+
 •	Service versions detected 
+
 •	OS fingerprinting completed 
-•	Potential vulnerabilities discovered 
+
+•	Potential vulnerabilities discovered
+
 ________________________________________
 🛡️ Task 2 — Vulnerability Assessment & Web Application Testing
 Objectives
