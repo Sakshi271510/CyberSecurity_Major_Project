@@ -2,7 +2,9 @@ Cyber Security & Ethical Hacking Lab
 A comprehensive cybersecurity practical project covering reconnaissance, vulnerability assessment, password auditing, malware analysis, network traffic inspection, system hardening, and cloud security concepts using Kali Linux and industry-standard tools.
 📚 Project Overview
 This repository contains practical cybersecurity lab exercises and reports focused on:
+
 •	Footprinting & Reconnaissance 
+
 •	Network Scanning & Enumeration 
 •	Vulnerability Assessment 
 •	Web Application Security Testing 
