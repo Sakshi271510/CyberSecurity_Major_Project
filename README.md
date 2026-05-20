@@ -80,7 +80,7 @@ Utilities & Libraries
 •	strings 
 
 ________________________________________
-####📁 Project Structure
+###📁 Project Structure
 
 .
 ├── Task1_Footprinting_Recon/
@@ -98,7 +98,7 @@ ________________________________________
 └── README.md
 
 ________________________________________
-#####🔍 Task 1 — Footprinting, Reconnaissance & Scanning
+###🔍 Task 1 — Footprinting, Reconnaissance & Scanning
 Objectives
 
 •	Perform footprinting 
@@ -160,7 +160,7 @@ Findings
 •	Potential vulnerabilities discovered
 
 ________________________________________
-🛡️ Task 2 — Vulnerability Assessment & Web Application Testing
+###🛡️ Task 2 — Vulnerability Assessment & Web Application Testing
 Objectives
 •	Perform vulnerability assessment 
 •	Identify SQL Injection and XSS 
@@ -188,7 +188,7 @@ Vulnerabilities Identified
 •	Weak credentials 
 •	Outdated server software 
 ________________________________________
-🌐 Task 3 — Password Security, Sniffing & Session Analysis
+###🌐 Task 3 — Password Security, Sniffing & Session Analysis
 Objectives
 •	Capture network packets 
 •	Analyze HTTP, DNS, TCP, and ARP traffic 
@@ -213,7 +213,7 @@ Key Learnings
 •	Weak passwords are easily cracked 
 •	Secure cookie attributes are essential 
 ________________________________________
-🦠 Task 4 — Malware, System Security & Cloud Security
+###🦠 Task 4 — Malware, System Security & Cloud Security
 Objectives
 •	Study malware basics 
 •	Perform static malware analysis 
@@ -247,7 +247,7 @@ Topics Covered
 •	SIEM Solutions 
 •	Cloud Security Risks 
 ________________________________________
-☁️ Cloud Security Concepts
+###☁️ Cloud Security Concepts
 Cloud Models
 •	IaaS 
 •	PaaS 
@@ -262,14 +262,14 @@ Best Practices
 •	IAM Policies 
 •	Logging & Monitoring 
 ________________________________________
-⚔️ Offensive vs Defensive Security
+###⚔️ Offensive vs Defensive Security
 Offensive Security	Defensive Security
 Penetration Testing	Monitoring
 Vulnerability Discovery	Incident Response
 Red Teaming	Blue Teaming
 Exploit Development	System Protection
 ________________________________________
-📊 Overall Findings
+###📊 Overall Findings
 •	Weak services identified during scanning 
 •	Vulnerabilities discovered in web applications 
 •	Weak passwords successfully cracked 
@@ -277,17 +277,17 @@ ________________________________________
 •	SIEM improves centralized visibility 
 •	Cloud misconfiguration is a major risk 
 ________________________________________
-✅ Conclusion
+##✅ Conclusion
 This cybersecurity practical project successfully demonstrated multiple offensive and defensive security concepts including reconnaissance, vulnerability assessment, packet analysis, password auditing, malware analysis, and system hardening. The project highlights the importance of secure configurations, strong authentication, network monitoring, and modern security controls.
 ________________________________________
-⚠️ Disclaimer
+##⚠️ Disclaimer
 This project is intended strictly for:
 •	Educational purposes 
 •	Authorized lab environments 
 •	Ethical cybersecurity learning 
 Do not perform scanning, exploitation, or password attacks on systems without proper authorization.
 ________________________________________
-📌 Author
+##📌 Author
 Sakshi Maruti Nalawade
 Cyber Security & Ethical Hacking Student
 Fortune Cloud Technologies, Pune
