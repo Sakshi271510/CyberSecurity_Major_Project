@@ -1,3 +1,4 @@
+
 Cyber Security & Ethical Hacking Lab
 
 A comprehensive cybersecurity practical project covering reconnaissance, vulnerability assessment, password auditing, malware analysis, network traffic inspection, system hardening, and cloud security concepts using Kali Linux and industry-standard tools.
@@ -59,7 +60,6 @@ strings
 ├── screenshots/
 ├── reports/
 └── README.md
-
 🔍 Task 1 — Footprinting, Reconnaissance & Scanning
 Objectives
 Perform footprinting
@@ -89,7 +89,6 @@ Open and closed ports identified
 Service versions detected
 OS fingerprinting completed
 Potential vulnerabilities discovered
-
 🛡️ Task 2 — Vulnerability Assessment & Web Application Testing
 Objectives
 Perform vulnerability assessment
@@ -117,7 +116,6 @@ Cross-Site Scripting (XSS)
 Weak security headers
 Weak credentials
 Outdated server software
-
 🌐 Task 3 — Password Security, Sniffing & Session Analysis
 Objectives
 Capture network packets
@@ -142,7 +140,6 @@ HTTP traffic is plaintext and insecure
 DNS traffic reveals browsing activity
 Weak passwords are easily cracked
 Secure cookie attributes are essential
-
 🦠 Task 4 — Malware, System Security & Cloud Security
 Objectives
 Study malware basics
@@ -196,7 +193,6 @@ Penetration Testing	Monitoring
 Vulnerability Discovery	Incident Response
 Red Teaming	Blue Teaming
 Exploit Development	System Protection
-
 📊 Overall Findings
 Weak services identified during scanning
 Vulnerabilities discovered in web applications
@@ -204,7 +200,6 @@ Weak passwords successfully cracked
 Firewall rules reduced attack surface
 SIEM improves centralized visibility
 Cloud misconfiguration is a major risk
-
 ✅ Conclusion
 
 This cybersecurity practical project successfully demonstrated multiple offensive and defensive security concepts including reconnaissance, vulnerability assessment, packet analysis, password auditing, malware analysis, and system hardening. The project highlights the importance of secure configurations, strong authentication, network monitoring, and modern security controls.
