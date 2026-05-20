@@ -98,170 +98,7 @@ ________________________________________
 └── README.md
 
 ________________________________________
-### 🔍 Task 1 — Footprinting, Reconnaissance & Scanning
-Objectives
 
-•	Perform footprinting 
-
-•	Perform reconnaissance 
-
-•	Scan hosts and ports 
-
-•	Detect services and operating systems
-
-•	Identify vulnerabilities 
-Key Tools
-
-•	WHOIS 
-
-•	nslookup 
-
-•	theHarvester 
-
-•	recon-ng 
-
-•	Nmap 
-
-Sample Commands
-
-WHOIS Lookup
-
-whois openai.com
-
-
-DNS Lookup
-
-nslookup microsoft.com
-
-
-Host Discovery
-
-nmap -sn 192.168.137.129/24
-
-
-Service Detection
-
-nmap -sV 192.168.1.10
-
-
-Vulnerability Scan
-
-nmap --script vuln 192.168.1.10
-
-
-Findings
-
-•	Open and closed ports identified 
-
-•	Service versions detected 
-
-•	OS fingerprinting completed 
-
-•	Potential vulnerabilities discovered
-
-________________________________________
-### 🛡️ Task 2 — Vulnerability Assessment & Web Application Testing
-Objectives
-•	Perform vulnerability assessment 
-•	Identify SQL Injection and XSS 
-•	Test weak authentication 
-•	Analyze security headers 
-Tools Used
-•	OpenVAS 
-•	Nikto 
-•	SQLMap 
-•	Hydra 
-•	Curl 
-Sample Commands
-Nikto Scan
-nikto -h http://192.168.137.133
-SQL Injection Testing
-sqlmap -u "http://192.168.137.133/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit" --batch
-Hydra Password Testing
-hydra -l msfadmin -P wordlist.txt ftp://192.168.137.133
-Header Inspection
-curl -I http://192.168.137.133
-Vulnerabilities Identified
-•	SQL Injection 
-•	Cross-Site Scripting (XSS) 
-•	Weak security headers 
-•	Weak credentials 
-•	Outdated server software 
-________________________________________
-### 🌐 Task 3 — Password Security, Sniffing & Session Analysis
-Objectives
-•	Capture network packets 
-•	Analyze HTTP, DNS, TCP, and ARP traffic 
-•	Perform password auditing 
-•	Understand secure session management 
-Tools Used
-•	Wireshark 
-•	John the Ripper 
-•	Hydra 
-Sample Commands
-Start Local HTTP Server
-python3 -m http.server 8080
-MD5 Hash Generation
-echo -n "password123" | md5sum
-Crack Password Hash
-john hashes.txt
-Use Wordlist
-john --wordlist=/usr/share/wordlists/rockyou.txt hashes.txt
-Key Learnings
-•	HTTP traffic is plaintext and insecure 
-•	DNS traffic reveals browsing activity 
-•	Weak passwords are easily cracked 
-•	Secure cookie attributes are essential 
-________________________________________
-### 🦠 Task 4 — Malware, System Security & Cloud Security
-Objectives
-•	Study malware basics 
-•	Perform static malware analysis 
-•	Harden Linux and Windows systems 
-•	Understand IDS/IPS and SIEM 
-•	Learn cloud security fundamentals 
-Tools Used
-•	strings 
-•	netstat 
-•	UFW 
-•	Snort 
-•	Wazuh 
-Sample Commands
-Extract Strings
-strings sample.exe
-Generate SHA256 Hash
-sha256sum sample.exe
-Check Open Ports
-sudo ss -tulnp
-Enable Firewall
-sudo ufw enable
-Install Snort
-sudo apt install snort -y
-Topics Covered
-•	Malware Types 
-•	Static & Dynamic Analysis 
-•	Linux Hardening 
-•	Windows Security 
-•	Firewall Concepts 
-•	IDS vs IPS 
-•	SIEM Solutions 
-•	Cloud Security Risks 
-________________________________________
-### ☁️ Cloud Security Concepts
-Cloud Models
-•	IaaS 
-•	PaaS 
-•	SaaS 
-Risks
-•	Misconfiguration 
-•	Weak IAM 
-•	Data Breaches 
-Best Practices
-•	MFA 
-•	Encryption 
-•	IAM Policies 
-•	Logging & Monitoring 
-________________________________________
 ### ⚔️ Offensive vs Defensive Security
 Offensive Security	Defensive Security
 Penetration Testing	Monitoring
@@ -271,10 +108,15 @@ Exploit Development	System Protection
 ________________________________________
 ### 📊 Overall Findings
 •	Weak services identified during scanning 
+
 •	Vulnerabilities discovered in web applications 
+
 •	Weak passwords successfully cracked 
+
 •	Firewall rules reduced attack surface 
+
 •	SIEM improves centralized visibility 
+
 •	Cloud misconfiguration is a major risk 
 ________________________________________
 ## ✅ Conclusion
