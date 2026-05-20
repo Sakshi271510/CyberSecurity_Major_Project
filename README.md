@@ -5,6 +5,7 @@ A comprehensive cybersecurity practical project covering reconnaissance, vulnera
 This repository contains practical cybersecurity lab exercises and reports focused on:
 
 • Footprinting & Reconnaissance
+
 •	Network Scanning & Enumeration 
 
 •	Vulnerability Assessment 
