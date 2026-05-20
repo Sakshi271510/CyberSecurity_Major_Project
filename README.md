@@ -5,15 +5,25 @@ A comprehensive cybersecurity practical project covering reconnaissance, vulnera
 This repository contains practical cybersecurity lab exercises and reports focused on:
 
 •	Footprinting & Reconnaissance 
+
 •	Network Scanning & Enumeration 
+
 •	Vulnerability Assessment 
+
 •	Web Application Security Testing 
+
 •	Password Security & Auditing 
+
 •	Packet Sniffing & Traffic Analysis 
+
 •	Malware Analysis Basics 
+
 •	Linux & Windows Hardening 
+
 •	IDS/IPS & SIEM Concepts 
+
 •	Cloud Security Fundamentals 
+
 ________________________________________
 👩💻 Student Information
 Field	Details
