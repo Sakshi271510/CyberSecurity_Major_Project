@@ -24,14 +24,8 @@ This repository contains practical cybersecurity lab exercises and reports focus
 
 •	Cloud Security Fundamentals 
 
-________________________________________
-👩💻 Student Information
-Field	Details
-Student Name	Sakshi Maruti Nalawade
-Institute	Fortune Cloud Technologies, Pune
-Lab Environment	Kali Linux
-________________________________________
-🛠️ Tools & Technologies Used
+___________________________________________________
+### 🛠️ Tools & Technologies Used
 Operating System
 
 •	Kali Linux 
