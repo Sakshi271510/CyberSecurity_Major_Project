@@ -80,7 +80,7 @@ Utilities & Libraries
 •	strings 
 
 ________________________________________
-###📁 Project Structure
+### 📁 Project Structure
 
 .
 ├── Task1_Footprinting_Recon/
